@@ -4,7 +4,6 @@
 - 👤 Crea un perfil con nosotros para promociones únicas 
 - 📫 Recibe promociones cada semana si te unes con nosotros
 - 😄 Esperemos tu comida sea la mejor que puedas probar...
-- ⚡ Demos con todo ...
 
 <!---
 SaborMexa ✨ Los únicos en preocuparnos por los gustos de nuestros clientes 
